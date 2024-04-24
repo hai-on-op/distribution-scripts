@@ -2,23 +2,6 @@
 # yarn lockfile v1
 
 
-check-more-types@^2.10.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/check-more-types/-/check-more-types-2.24.0.tgz#1420ffb10fd444dcfc79b43891bbfffd32a84600"
-  integrity sha512-Pj779qHxV2tuapviy1bSZNEL1maXr13bPYpsvSDB68HlYcYuhlDrmGd63i0JHMCLKzc7rUSNIrpdJlhVlNwrxA==
-
-csv-load-sync@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/csv-load-sync/-/csv-load-sync-2.3.1.tgz#847439a206154131bfc0a2905edb853d2c74870f"
-  integrity sha512-oe8Ex/lwUwPY+7FGrGkfIHzihTNHJ9L3rLSZPLVoprT35Mk8DZ1MkLGsJWZjmMlseVyldLqFSWqFHtYsxr2jXQ==
-  dependencies:
-    check-more-types "^2.10.0"
-
-csv-parse@^5.5.5:
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.5.5.tgz#68a271a9092877b830541805e14c8a80e6a22517"
-  integrity sha512-erCk7tyU3yLWAhk6wvKxnyPtftuy/6Ak622gOO7BCJ05+TYffnPCJF905wmOQm+BpkX54OdAl8pveJwUdpnCXQ==
-
 csv-parser@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/csv-parser/-/csv-parser-3.0.0.tgz#b88a6256d79e090a97a1b56451f9327b01d710e7"
