@@ -4,10 +4,10 @@
 
 | Campaign               | Campaign Start Date | Campaign End Date | KITE per Day | OP per Day |
 | ---------------------- | ------------------- | ----------------- | ------------ | ---------- |
-| Borrow: WETH           | 5/15/2024           | 5/15/2024         | 20           | 25         |
-| Borrow: WSTETH         | 5/15/2024           | 5/15/2024         | 20           | 25         |
-| Borrow: OP             | 5/15/2024           | 5/15/2024         | 20           | 50         |
-| LP: Uniswap V3 HAI/ETH | 5/15/2024           | 5/15/2024         | 30           | 200        |
+| Borrow: WETH           | 5/15/2024           | 6/15/2024         | 20           | 25         |
+| Borrow: WSTETH         | 5/15/2024           | 6/15/2024         | 20           | 25         |
+| Borrow: OP             | 5/15/2024           | 6/15/2024         | 20           | 50         |
+| LP: Uniswap V3 HAI/ETH | 5/15/2024           | 6/15/2024         | 30           | 200        |
 
 ## Details
 
