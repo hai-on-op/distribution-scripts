@@ -92,7 +92,7 @@ Total KITE Distributed: `1860`
 
 Total OP Distributed: `3100`
 
-## Aggregate Distribution 4 Rewards
+## Aggregate Distribution 5 Rewards
 
 90 KITE / day
 
